@@ -87,12 +87,8 @@ I followed a structured pipeline to build this project:
 ### 🛠️ Setup Instructions
 
 # Clone the project
-git clone https://github.com/YourUsername/Linkedin-post--generator.git
-cd Linkedin-post--generator
-
-# Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate         # On Windows: venv\Scripts\activate
+git clone https://github.com/Jaswanthchowdary18/Linkedin-post--generator.git
+cd Linkedin-post--generator       
 
 # Install required packages
 pip install -r requirements.txt
